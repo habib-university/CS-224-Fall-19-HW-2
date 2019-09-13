@@ -40,18 +40,18 @@ The problem is to be solved in files with the names indicated in the problem she
 _Deadline_: 18h on Monday, 30 September in your GitHub repository.
 
 ### 2. Feedback Form
-Every student has to submit feedback on the homework at [LMS -> Tests & Quizzes][1]. The deadline is at the same time as the problem set.
+Every student has to submit feedback on the homework at [LMS -> Tests & Quizzes][lms-tq]. The deadline is at the same time as the problem set.
 
-_Deadline_: 18h on Monday, 30 September on [LMS -> Tests & Quizzes][1].
+_Deadline_: 18h on Monday, 30 September on [LMS -> Tests & Quizzes][lms-tq].
 
-[1]: https://lms.habib.edu.pk/x/gAfY51
+[lms-tq]: https://lms.habib.edu.pk/x/gAfY51
 ### 3. Peer Review
 
-Every student will be assigned 2 submissions for grading according to `rubric.csv`. See [LMS -> Assignments][2] for details on the peer review.
+Every student will be assigned 2 submissions for grading according to `rubric.csv`. See [LMS -> Assignments][lms-ass] for details on the peer review.
 
-_Deadline_: 18h on Friday, 4 October on [LMS -> Assignments][2].
+_Deadline_: 18h on Friday, 4 October on [LMS -> Assignments][lms-ass].
 
-[2]: https://lms.habib.edu.pk/x/72U32u
+[lms-ass]: https://lms.habib.edu.pk/x/72U32u
 ## Tips
 
 - Do not include identifying information.
@@ -63,8 +63,8 @@ _Deadline_: 18h on Friday, 4 October on [LMS -> Assignments][2].
 There is a lot to handle and there are bound to be confusions and queries. Please share them using the following avenues.
 
 - discuss with your teammate
-- post in the [class forum][3]
+- post in the [class forum][workplace]
 - talk to course staff in their office hours
 - talk to course staff after class.
 
-[3]: https://habibedu.facebook.com/groups/454695375131714/
+[workplace]: https://habibedu.facebook.com/groups/454695375131714/
